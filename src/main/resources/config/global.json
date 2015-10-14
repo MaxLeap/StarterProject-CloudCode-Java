@@ -1,0 +1,10 @@
+{
+    "applicationName" : "",//MaxLeap应用名称
+    "applicationId": "",//Application ID
+    "applicationKey": "",//Master Key
+    "lang" : "java",//开发语言
+    "javaMain": "Main",//入口main函数类名
+    "packageHook" : "",//Hook包名
+    "packageClasses" : "",//Class实体包名
+    "version":""//当前云代码项目版本号
+}
