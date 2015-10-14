@@ -1,1 +1,2 @@
-# StarterProject-CloudCode-Java, the template project for Cloud Code Java
+# StarterProject-CloudCode-Java
+The template project for Cloud Code Java
