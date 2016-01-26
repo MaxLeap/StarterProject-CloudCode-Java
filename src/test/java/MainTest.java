@@ -8,9 +8,6 @@ import org.junit.Test;
  * Date：15/10/14
  */
 public class MainTest extends TestCloudCode {
-  public MainTest() throws Exception {
-    super("http://api.leap.as/2.0");
-  }
 
   @Test
   public void hello(){
